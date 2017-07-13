@@ -1,0 +1,38 @@
+{
+  "name": "ngx-heyl-social-login",
+  "version": "1.0.0",
+  "description": "A easy-to-use service to login with Facebook and / or Google provider",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GALLO Mathieu",
+  "license": "ISC",
+  "peerDependencies": {
+    "@angular/common": "^2.3.1 || >=4.0.0",
+    "@angular/core": "^2.3.1 || >=4.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattewEon/ngx-heyl-social-login.git"
+  },
+  "keywords": [
+    "angular",
+    "angular 2",
+    "ng2",
+    "angular 4",
+    "ng4",
+    "ngx",
+    "social login",
+    "facebook login",
+    "google login"
+  ],
+  "bugs": {
+    "url": "https://github.com/MattewEon/ngx-heyl-social-login/issues"
+  },
+  "homepage": "https://github.com/MattewEon/ngx-heyl-social-login#readme",
+  "dependencies": {
+    "ngx-facebook": "^2.4.0"
+  }
+}
