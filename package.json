@@ -1,6 +1,6 @@
 {
   "name": "ngx-heyl-social-login",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A easy-to-use service to login with Facebook and / or Google provider",
   "main": "index.ts",
   "scripts": {
