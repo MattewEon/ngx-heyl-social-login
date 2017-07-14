@@ -1,5 +1,5 @@
 import {Injectable} from "@angular/core";
-import {FacebookService, InitParams, LoginResponse} from "../node_modules/ngx-facebook";
+import {FacebookService, InitParams, LoginResponse} from "ngx-facebook";
 import {SocialUser} from "./social-user";
 declare const gapi: any;
 
